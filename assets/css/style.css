@@ -1,0 +1,27 @@
+.container{
+  background-color: grey;
+  margin-top: 10%;
+  height: 300px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+.placement{
+  display: flex;
+  justify-content: center;
+}
+.color{
+  float: left;
+  width: 20px;
+  height: 20px;
+  margin : 5px;
+}
+.green{
+  background-color: green;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
